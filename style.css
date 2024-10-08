@@ -1,0 +1,127 @@
+.quadrado{
+    width:90%;
+    background-color:rgb(129, 124, 124);
+    margin:0 auto;
+    height: 100%;
+    width: 100%;
+    }
+
+#gmail{
+    width: 64px;
+    height: 64px;
+}
+
+#y{
+    width:64px;
+    height:64px;
+}
+
+#github{
+    width: 64px;
+    height: 64px;
+}
+
+#gmail, #github, #y{
+    float:right;
+    justify-content: space-evenly;
+}
+
+h1, p {
+    display:flex;
+    justify-content: center;
+}
+
+.projetos{
+    display: flex;
+    justify-content: right;
+}
+
+.sublinhado, li{
+    display:block;
+}
+
+
+
+.main{
+    background-color: rgb(129, 124, 124);
+    display: flex;
+    width:90%;
+
+}
+
+.projetos{
+    background-color: rgb(129, 124, 124);
+    display: flex;
+    float:right;
+    width:100%;
+    min-height:600px;
+}
+
+.pai{
+    display:flex;
+    justify-content: center;
+}
+
+p{
+    margin-top:60px;
+    margin-right:170px;
+    margin-bottom:10px;
+}
+
+h1{
+position:absolute; right:1200px;
+}
+
+p{
+    position:absolute; bottom:500px;
+    right:1000px;
+}
+
+h2{
+    position:absolute; right:200px;
+}
+
+ul{
+    position:absolute; top:100px;
+    right:180px;
+
+}
+
+a{text-decoration:none}
+
+#pai{
+    background-color: black;
+    position:relative
+     }
+
+p,a,.silkscreen-regular {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  h1,h2,.silkscreen-bold {
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
